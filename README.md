@@ -32,19 +32,6 @@ Cada estado tiene su propia lógica de error y vuelve automáticamente a una pos
 
 ---
 
-## 👥 Equipo
-
-| Integrante | Rol |
-|---|---|
-| Leon Condori Jesús Daniel | Líder de Integración |
-| Rojas Estrada Julia Jhamilett | Especialista en Cinemática FK |
-| Jordy Maximo Diaz Huanca | Especialista en Cinemática IK |
-| Alex Perales Maldonado | Ingeniero de Control y Colisiones |
-| Tovar Landa Henry Aaron | Ingeniero de Visión Computacional |
-
-> Todos los integrantes ejecutaron llamadas directas al API del robot real con el hardware físico, tal como exige la consigna del examen.
-
----
 
 ## 🛠️ Stack Tecnológico
 
@@ -117,15 +104,15 @@ Ejecutar las celdas en orden. La celda final corre **5 ciclos autónomos** sin i
 
 ## 🧩 Problemas Resueltos
 
-| # | Problema | Lidera | Estado |
-|---|---|---|---|
-| P1 | Representación DH del MyCobot 280 | Julia / Jordy | ✅ |
-| P2 | Cinemática Directa (FK) | Julia | ✅ |
-| P3 | Cinemática Inversa (IK) | Jordy | ✅ |
-| P4 | Evasión de colisiones | Alex | ✅ |
-| P5 | Control de trayectorias (5 ciclos) | Alex | ✅ |
-| P6 | Detección de objetos por visión | Aaron | ✅ |
-| P7 | Pipeline End-to-End autónomo | Leon | ✅ |
+| # | Problema | Estado |
+|---|---|---|
+| P1 | Representación DH del MyCobot 280 | ✅ |
+| P2 | Cinemática Directa (FK) | ✅ |
+| P3 | Cinemática Inversa (IK) | ✅ |
+| P4 | Evasión de colisiones | ✅ |
+| P5 | Control de trayectorias (5 ciclos) | ✅ |
+| P6 | Detección de objetos por visión | ✅ |
+| P7 | Pipeline End-to-End autónomo | ✅ |
 
 ---
 
