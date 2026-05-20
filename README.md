@@ -32,19 +32,6 @@ Cada estado tiene su propia lógica de error y vuelve automáticamente a una pos
 
 ---
 
-## 👥 Equipo
-
-| Integrante | Rol |
-|---|---|
-| Leon Condori Jesús Daniel | Líder de Integración |
-| Rojas Estrada Julia Jhamilett | Especialista en Cinemática FK |
-| Jordy Maximo Diaz Huanca | Especialista en Cinemática IK |
-| Alex Perales Maldonado | Ingeniero de Control y Colisiones |
-| Tovar Landa Henry Aaron | Ingeniero de Visión Computacional |
-
-> Todos los integrantes ejecutaron llamadas directas al API del robot real con el hardware físico, tal como exige la consigna del examen.
-
----
 
 ## 🛠️ Stack Tecnológico
 
